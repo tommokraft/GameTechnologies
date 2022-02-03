@@ -1,0 +1,28 @@
+﻿  BehaviourAction.cpp
+  BehaviourNode.cpp
+  BehaviourNodeWithChildren.cpp
+  BehaviourSelector.cpp
+  BehaviourSequence.cpp
+  CollisionDetection.cpp
+  Debug.cpp
+  GameObject.cpp
+  GameWorld.cpp
+  NavigationGrid.cpp
+H:\8503\CSC8503\CSC8503Common\NavigationGrid.cpp(80,12): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+H:\8503\CSC8503\CSC8503Common\NavigationGrid.cpp(81,12): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+H:\8503\CSC8503\CSC8503Common\NavigationGrid.cpp(83,10): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+  NavigationMesh.cpp
+  PhysicsObject.cpp
+  PhysicsSystem.cpp
+  PositionConstraint.cpp
+  PushdownMachine.cpp
+  PushdownState.cpp
+  QuadTree.cpp
+  RenderObject.cpp
+  StateGameObject.cpp
+  StateMachine.cpp
+  Compiling...
+  StateTransition.cpp
+  Transform.cpp
+H:\8503\CSC8503\CSC8503Common\NavigationGrid.cpp(84,10): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+  CSC8503Common.vcxproj -> H:\8503\x64\Release\CSC8503Common.lib

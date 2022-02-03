@@ -1,0 +1,32 @@
+﻿  CollisionDetection.cpp
+H:\8503\CSC8503\CSC8503Common\CollisionDetection.h(44,1): warning C4293:  '<<': shift count negative or too big, undefined behavior
+  Debug.cpp
+H:\8503\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293:  '<<': shift count negative or too big, undefined behavior
+H:\8503\CSC8503\CSC8503Common\Debug.cpp(67,20): warning C4018:  '<': signed/unsigned mismatch
+  GameObject.cpp
+H:\8503\CSC8503\CSC8503Common\Debug.cpp(78,16): warning C4018:  '>=': signed/unsigned mismatch
+H:\8503\CSC8503\CSC8503Common\CollisionDetection.h(44,1): warning C4293:  '<<': shift count negative or too big, undefined behavior
+  GameWorld.cpp
+H:\8503\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293:  '<<': shift count negative or too big, undefined behavior
+H:\8503\CSC8503\CSC8503Common\CollisionDetection.h(44,1): warning C4293:  '<<': shift count negative or too big, undefined behavior
+  NavigationGrid.cpp
+  NavigationMesh.cpp
+  PhysicsObject.cpp
+H:\8503\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293:  '<<': shift count negative or too big, undefined behavior
+H:\8503\CSC8503\CSC8503Common\CollisionDetection.h(44,1): warning C4293:  '<<': shift count negative or too big, undefined behavior
+  PhysicsSystem.cpp
+H:\8503\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293:  '<<': shift count negative or too big, undefined behavior
+H:\8503\CSC8503\CSC8503Common\CollisionDetection.h(44,1): warning C4293:  '<<': shift count negative or too big, undefined behavior
+  PushdownMachine.cpp
+  PushdownState.cpp
+  QuadTree.cpp
+H:\8503\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293:  '<<': shift count negative or too big, undefined behavior
+H:\8503\CSC8503\CSC8503Common\CollisionDetection.h(44,1): warning C4293:  '<<': shift count negative or too big, undefined behavior
+  RenderObject.cpp
+  StateMachine.cpp
+  StateTransition.cpp
+  Transform.cpp
+  Generating Code...
+H:\8503\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293:  '<<': shift count negative or too big, undefined behavior
+H:\8503\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293: H:\8503\CSC8503\CSC8503Common\GameObject.cpp : fatal error C1090: PDB API call failed, error code '5': H:\8503\CSC8503\CSC8503Common\Debug\CSC8503Common.pdb
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(429,5): error MSB6006: "CL.exe" exited with code 1.

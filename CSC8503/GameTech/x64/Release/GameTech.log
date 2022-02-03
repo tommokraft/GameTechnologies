@@ -1,0 +1,22 @@
+﻿  GameTechRenderer.cpp
+  Main.cpp
+  TutorialGame.cpp
+H:\8503\CSC8503\GameTech\Main.cpp(165,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+H:\8503\CSC8503\GameTech\TutorialGame.cpp(88,45): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+H:\8503\CSC8503\GameTech\TutorialGame.cpp(88,32): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+H:\8503\CSC8503\GameTech\TutorialGame.cpp(93,69): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+H:\8503\CSC8503\GameTech\TutorialGame.cpp(93,56): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+H:\8503\CSC8503\GameTech\TutorialGame.cpp(104,64): warning C4305:  'argument': truncation from 'float' to 'bool'
+H:\8503\CSC8503\GameTech\TutorialGame.cpp(105,64): warning C4305:  'argument': truncation from 'float' to 'bool'
+H:\8503\CSC8503\GameTech\TutorialGame.cpp(163,28): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+H:\8503\CSC8503\GameTech\TutorialGame.cpp(248,29): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+H:\8503\CSC8503\GameTech\TutorialGame.cpp(323,181): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+H:\8503\CSC8503\GameTech\TutorialGame.cpp(326,182): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+H:\8503\CSC8503\GameTech\TutorialGame.cpp(329,93): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+H:\8503\CSC8503\GameTech\TutorialGame.cpp(332,93): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+H:\8503\CSC8503\GameTech\TutorialGame.cpp(533,45): warning C4305:  'argument': truncation from 'double' to 'float'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 3456 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GameTech.vcxproj -> H:\8503\x64\Release\GameTech.exe
